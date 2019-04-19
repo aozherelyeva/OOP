@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eb8a9b8-a8aa-46d8-a48c-19165d823acd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6eb8a9b8-a8aa-46d8-a48c-19165d823acd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+            <state relative-caret-position="460">
+              <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
               <folding>
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
@@ -51,6 +42,15 @@
                 <element signature="e#1336#1337#0" expanded="true" />
                 <element signature="e#1729#1730#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/solutions/PalindromeFinderSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -142,6 +142,22 @@
               <item name="javalesson" type="462c0819:PsiDirectoryNode" />
               <item name="udemytasks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javalesson" type="462c0819:PsiDirectoryNode" />
+              <item name="udemytasks" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javalesson" type="462c0819:PsiDirectoryNode" />
+              <item name="udemytasks" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PalindromeFinderSolution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.oop.Main" />
       <module name="OOP" />
@@ -179,8 +195,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorsAndStatementsAnswers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.chapter1.task4.OperatorsAndStatementsAnswers" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalesson.chapter1.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeFinderSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.chapter1.task3.PalindromeFinderSolution" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalesson.chapter1.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeFinderSolution" />
+        <item itemvalue="Application.OperatorsAndStatementsAnswers" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -224,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555678948348</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add tasks for the future">
+      <created>1555682583631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555682583631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -239,10 +290,10 @@
       <window_info anchor="bottom" id="Version Control" weight="0.32914287" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.4994664" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053364" side_tool="true" weight="0.32914287" />
-      <window_info anchor="bottom" id="Messages" weight="0.32914287" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32914287" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,7 +312,8 @@
     <MESSAGE value="FC" />
     <MESSAGE value="Add Dog class and 2 objects" />
     <MESSAGE value="Add tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tasks" />
+    <MESSAGE value="Add tasks for the future" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tasks for the future" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/tasks/task1.java">
@@ -375,10 +427,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/solutions/OperatorsAndStatementsAnswers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        <state relative-caret-position="460">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
@@ -392,6 +451,20 @@
             <element signature="e#1336#1337#0" expanded="true" />
             <element signature="e#1729#1730#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/solutions/OperatorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/solutions/PalindromeFinderSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
