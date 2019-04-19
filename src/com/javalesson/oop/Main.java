@@ -1,5 +1,7 @@
 package com.javalesson.oop;
 
+import com.javalesson.oop.Dog;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -8,7 +10,7 @@ public class Main {
         lab.setTail(1);
         lab.setName("Charley");
         lab.setBreed("Labrador");
-        lab.setSize("Average");
+        //lab.setSize("Average");
         lab.bark();
         lab.bite();
 
@@ -17,7 +19,7 @@ public class Main {
         sheppard.setTail(1);
         sheppard.setName("Mike");
         sheppard.setBreed("Sheppard");
-        sheppard.setSize("Big");
+        //sheppard.setSize("Big");
         sheppard.bark();
         sheppard.bite();
 
@@ -26,7 +28,7 @@ public class Main {
         doberman.setTail(1);
         doberman.setName("Mike");
         doberman.setBreed("Doberman");
-        doberman.setSize("big");
+        //doberman.setSize("big");
         doberman.bark();
         doberman.bite();
 

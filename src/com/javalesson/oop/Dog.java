@@ -8,7 +8,7 @@ public class Dog {
     private int tail;
     private String name;
     private String breed;
-    private String size;
+    private String size = null;
 
     public Dog() {
         dogsCount++;
@@ -27,7 +27,7 @@ public class Dog {
         return name;
     }
 
-    public void setPaws(int paws) {
+    protected void setPaws(int paws) {
         if (paws == 4) {
             this.paws = paws;
         } else {
@@ -64,9 +64,9 @@ public class Dog {
     }
 
     public void setSize(String size) {
-        if (size.equalsIgnoreCase("Big") ||
-                size.equalsIgnoreCase("Average") ||
-                size.equalsIgnoreCase("Small")) {
+        if ("Big".equalsIgnoreCase(size) ||
+                "Average".equalsIgnoreCase(size) ||
+                "Small".equalsIgnoreCase(size)) {
             this.size = size;
         } else {
             System.out.println("Size should be one of these: Big, Average or Small");
@@ -78,14 +78,14 @@ public class Dog {
     }
 
     public void bark() {
-        if (size.equalsIgnoreCase("Big")) {
+        if ("Big".equalsIgnoreCase(size)) {
             System.out.println("Wof - Wof");
-        } else if (size.equalsIgnoreCase("Average")) {
+        } else if ("Average".equalsIgnoreCase(size)) {
             System.out.println("Raf - Raf");
-        } else if (size.equalsIgnoreCase("Small")) {
+        } else if ("Small".equalsIgnoreCase(size)) {
             System.out.println("Tyaf - Tyaf");
         } else {
-            System.out.println("Size not detected -- dog can't bark");
+            System.out.println("Dog size not recognized -- can't bark");
         }
     }
 
