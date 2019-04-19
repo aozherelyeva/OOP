@@ -17,6 +17,6 @@ public class task2 {
             output *= i;
         }
 
-        System.out.println(input+" factorial is "+output);
+        System.out.println(input + " factorial is " + output);
     }
 }
