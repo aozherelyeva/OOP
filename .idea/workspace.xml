@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb8a9b8-a8aa-46d8-a48c-19165d823acd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/tasks/task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,29 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="415">
+              <caret line="36" column="70" lean-forward="true" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="850">
+              <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
               <folding>
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
                 <element signature="e#216#217#0" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
                 <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#1027#1028#0" expanded="true" />
-                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#1200#1201#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1336#1337#0" expanded="true" />
+                <element signature="e#1729#1730#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task1.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task2.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task3.java" />
@@ -76,6 +77,13 @@
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task5.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task6.java" />
         <option value="$PROJECT_DIR$/src/com/javalesson/tasks/task7.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/oop/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/oop/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task0.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task1.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task2.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task3.java" />
+        <option value="$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task4.java" />
       </list>
     </option>
   </component>
@@ -118,7 +126,21 @@
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javalesson" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javalesson" type="462c0819:PsiDirectoryNode" />
               <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javalesson" type="462c0819:PsiDirectoryNode" />
+              <item name="udemytasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,12 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555610409829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add tasks">
+      <created>1555678948348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555678948348</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1004" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
@@ -215,7 +243,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,29 +256,14 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Add Dog class" />
     <MESSAGE value="FC" />
     <MESSAGE value="Add Dog class and 2 objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Dog class and 2 objects" />
+    <MESSAGE value="Add tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tasks" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/tasks/task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -305,8 +318,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="415">
+          <caret line="36" column="70" lean-forward="true" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/udemytasks/chapter1/task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="985">
+          <caret line="122" column="1" lean-forward="true" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+          <folding>
+            <element signature="e#2682#2683#0" expanded="true" />
+            <element signature="e#2709#2710#0" expanded="true" />
+            <element signature="e#4468#4469#0" expanded="true" />
+            <element signature="e#4498#4499#0" expanded="true" />
+            <element signature="e#4528#4529#0" expanded="true" />
+            <element signature="e#4557#4558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javalesson/oop/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
